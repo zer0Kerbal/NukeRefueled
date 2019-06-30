@@ -41,4 +41,4 @@ License
 ##### All bundled mods are distributed under their own licenses
 ##### All art assets (textures, models, animations) are distributed under an All Rights Reserved License.
 
-###### v0.0.1.2 original: 11 Aug 2018 0K updated: 11 Aug 2018 0K
+###### v0.0.1.0 original: 27 Jun 2019 by zedK updated: 30 Jun 2019 2018 by zedK
