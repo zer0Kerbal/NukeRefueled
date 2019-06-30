@@ -3,8 +3,8 @@ StarGuise Experimental
 
 Proudly Adopts(HOPEFULLY) - for private/personal use  
 
-## ODFC  
-### ***On Demand Fuel Cells Refueled (ODFCr)***  
+## Nuke TinyParts 
+### ***Nuke TinyParts (NTP)***  
 
 v.0.0.1.2 
    * released:  
@@ -18,7 +18,8 @@ v.0.0.1.2
 📌v0.0.1.2-alpha  
 
 ## links to original:  
-On Demand Fuel Cells (ODFC) by `Orum  
+Nuke-TinyParts by `Nuke  
+Original had a blank licence.
 Licensed under CC BY-NC-SA-4.0  
 [KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/138431-112-on-demand-fuel-cells-odfc-v11/)  
 [Spacedock](https://spacedock.info/mod/618/ODFC%20-%20On%20Demand%20Fuel%20Cells)  
