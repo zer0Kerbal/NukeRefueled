@@ -6,10 +6,10 @@ Proudly Adopts(HOPEFULLY) - for private/personal use
 ## Nuke TinyParts 
 ### ***Nuke TinyParts (NTP)***  
 
-v.0.0.1.2 
+v.0.0.1.0 
    * released:  
-   * updated .version to 1.4.9999  
-   * recomplied against KSP 1.4.5  
+   * updated .version to 1.7.x  
+   * no recompile needed
    * ?  
 
 
@@ -19,11 +19,12 @@ v.0.0.1.2
 
 ## links to original:  
 Nuke-TinyParts by `Nuke  
-Original had a blank licence.
+Original license: public-domain.
 Licensed under CC BY-NC-SA-4.0  
 [KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/138431-112-on-demand-fuel-cells-odfc-v11/)  
 [Spacedock](https://spacedock.info/mod/618/ODFC%20-%20On%20Demand%20Fuel%20Cells)  
-[Dropbox](https://www.dropbox.com/s/0rpp4138jumvaxq/ODFC_v1.1.zip?dl=0)  
+[Dropbox](https://drive.google.com/drive/folders/1WPu-nxiyoI-xSWWkb_FJ5wDdqelR4jVk)  
+[CKAN Github](https://github.com/KSP-CKAN/CKAN-meta/commit/6b00321e9a4ad5f8ccc5bebb9e57ca02cbde61d3)
 
 
 
