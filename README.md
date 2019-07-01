@@ -5,6 +5,8 @@ Proudly Updates(HOPEFULLY) - for private/personal use
 
 ## Nuke TinyParts 
 ### ***Nuke TinyParts (NTP)***  
+Tiny Parts and Other Useless Junk
+'A pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts of my design. Most of the parts feature normal maps, and engines have overheat effects. 
 
 v.0.0.1.0 
    * released:  
