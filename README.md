@@ -1,7 +1,7 @@
 # SGEx  
 StarGuise Experimental  
 
-Proudly Adopts(HOPEFULLY) - for private/personal use  
+Proudly Updates(HOPEFULLY) - for private/personal use  
 
 ## Nuke TinyParts 
 ### ***Nuke TinyParts (NTP)***  
@@ -10,6 +10,7 @@ v.0.0.1.0
    * released:  
    * updated .version to 1.7.x  
    * no recompile needed
+   * TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
    * ?  
 
 
