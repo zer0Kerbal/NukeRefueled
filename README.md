@@ -10,8 +10,7 @@ v.0.0.1.0
    * released:  
    * updated .version to 1.7.x  
    * no recompile needed
-   * TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
-   * ?  
+   * TGA to DDS, reduced sample to 512x512 (max) reducing file size from 211mb to 35mb
 
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
