@@ -18,7 +18,7 @@ v.0.0.1.0
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
  
-📌v0.0.1.2-alpha  
+📌v0.0.1.0-alpha  
 
 ## links to original:  
 Nuke-TinyParts by `Nuke
