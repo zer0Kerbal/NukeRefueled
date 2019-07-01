@@ -23,7 +23,7 @@ Nuke-TinyParts by `Nuke
 Original license: public-domain.  
 
 Licensed under CC BY-NC-SA-4.0  
-[KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/138431-112-on-demand-fuel-cells-odfc-v11/)  
+[KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/21466-161-tiny-parts-and-other-useless-junk/)  
 [Spacedock](https://spacedock.info/mod/618/ODFC%20-%20On%20Demand%20Fuel%20Cells)  
 [Dropbox](https://drive.google.com/drive/folders/1WPu-nxiyoI-xSWWkb_FJ5wDdqelR4jVk)  
 [CKAN Github](https://github.com/KSP-CKAN/CKAN-meta/commit/6b00321e9a4ad5f8ccc5bebb9e57ca02cbde61d3)
