@@ -6,7 +6,7 @@ Proudly Updates(HOPEFULLY)
 ## Nuke TinyParts 
 ### ***Nuke TinyParts (NTP)***  
 
-v.0.0.1.0 
+v.1.7.2.0.1
    * released:  
    * updated .version to 1.7.x  
    * no recompile needed
@@ -18,7 +18,7 @@ v.0.0.1.0
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
  
-📌v0.0.1.0-beta  
+📌v1.7.2.0.1-beta  
 
 ## links to original:  
 Nuke-TinyParts by `Nuke
@@ -44,4 +44,4 @@ License
 ##### All bundled mods are distributed under their own licenses
 ##### All art assets (textures, models, animations) are distributed under an All Rights Reserved License.
 
-###### v0.0.1.0 original: 27 Jun 2019 by zedK updated: 30 Jun 2019 2018 by zedK
+###### v1.7.2.0.1-beta original: 27 Jun 2019 by zedK updated: 02 Jul 2019 2018 by zedK
