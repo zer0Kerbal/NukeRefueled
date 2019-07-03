@@ -1,7 +1,7 @@
 # SGEx  
 StarGuise Experimental  
 
-Proudly Updates(HOPEFULLY) - for private/personal use  
+Proudly Updates(HOPEFULLY)  
 
 ## Nuke TinyParts 
 ### ***Nuke TinyParts (NTP)***  
@@ -11,12 +11,14 @@ v.0.0.1.0
    * updated .version to 1.7.x  
    * no recompile needed
    * TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
-   * ?  
+   * originally licenced under Public Domain, updated to CC BY-NC-SA-4.0 to protect Nuke
+   * ~80 parts
+   * *Some parts not working*
 
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
  
-📌v0.0.1.2-alpha  
+📌v0.0.1.0-beta  
 
 ## links to original:  
 Nuke-TinyParts by `Nuke
