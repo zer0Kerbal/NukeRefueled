@@ -8,6 +8,8 @@ Proudly Updates(HOPEFULLY)
 Tiny Parts and Other Useless Junk
 'A pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts of my design. Most of the parts feature normal maps, and engines have overheat effects. 
 
+* v.1.7.3.0.2
+   + Integrate R7 changes
 * v.1.7.3.0.1
    + Add B9 tank switch (with NearFutureConstruction Support) to : 
       + tinyGirderMediumTank 
@@ -33,7 +35,7 @@ Tiny Parts and Other Useless Junk
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
  
-📌v1.7.3.0.1-beta  
+📌v1.7.3.0.2-beta  
 
 ## links to original:  
 Nuke-TinyParts by `Nuke
@@ -59,4 +61,4 @@ License
 ##### All bundled mods are distributed under their own licenses
 ##### All art assets (textures, models, animations) are distributed under an All Rights Reserved License.
 
-###### v1.7.3.0.1-beta — original: 27 Jun 2019 by zed'K — updated: 02 Aug 2019 by zed'K
+###### v1.7.3.0.2-beta — original: 27 Jun 2019 by zed'K — updated: 02 Aug 2019 by zed'K
