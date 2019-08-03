@@ -1,23 +1,26 @@
 # SGEx  
 StarGuise Experimental  
 
-Proudly Updates(HOPEFULLY) - for private/personal use  
+Proudly Updates(HOPEFULLY)  
 
 ## Nuke TinyParts 
 ### ***Nuke TinyParts (NTP)***  
 Tiny Parts and Other Useless Junk
 'A pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts of my design. Most of the parts feature normal maps, and engines have overheat effects. 
 
-v.0.0.1.0 
+v.1.7.2.0.1
    * released:  
    * updated .version to 1.7.x  
    * no recompile needed
-   * TGA to DDS, reduced sample to 512x512 (max) reducing file size from 211mb to 35mb
+   * TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
+   * originally licenced under Public Domain, updated to CC BY-NC-SA-4.0 to protect Nuke
+   * ~80 parts
+   * *Some parts not working*
 
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
  
-📌v0.0.1.0-alpha  
+📌v1.7.2.0.1-beta  
 
 ## links to original:  
 Nuke-TinyParts by `Nuke
@@ -43,4 +46,4 @@ License
 ##### All bundled mods are distributed under their own licenses
 ##### All art assets (textures, models, animations) are distributed under an All Rights Reserved License.
 
-###### v0.0.1.0 original: 27 Jun 2019 by zedK updated: 30 Jun 2019 2018 by zedK
+###### v1.7.2.0.1-beta original: 27 Jun 2019 by zedK updated: 02 Jul 2019 2018 by zedK
