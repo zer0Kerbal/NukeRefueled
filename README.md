@@ -4,6 +4,8 @@ StarGuise Experimental
 Proudly Updates(HOPEFULLY)  
 
 ## Nuke TinyParts 
+![zer0Kerbal](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
+![zer0Kerbal](https://img.shields.io/badge/MOD%20version-1.7.3.1-orange.svg?style=flat-square)
 ### ***Nuke TinyParts (NTP)***  
 Tiny Parts and Other Useless Junk
 'A pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts of my design. Most of the parts feature normal maps, and engines have overheat effects. 
@@ -42,7 +44,7 @@ Original license: public-domain.
 
 Licensed under CC BY-NC-SA-4.0  
 [KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/21466-161-tiny-parts-and-other-useless-junk/)  
-[Spacedock](https://spacedock.info/mod/618/ODFC%20-%20On%20Demand%20Fuel%20Cells)  
+[Spacedock](https://spacedock.info/mod/2175/Nuke%20Refueled)  
 [Dropbox](https://drive.google.com/drive/folders/1WPu-nxiyoI-xSWWkb_FJ5wDdqelR4jVk)  
 [CKAN Github](https://github.com/KSP-CKAN/CKAN-meta/commit/6b00321e9a4ad5f8ccc5bebb9e57ca02cbde61d3)
 
