@@ -1,7 +1,7 @@
 # ***Choices, Choices, Choices***
 ## * v.1.7.3.0.1 
-### βeta 
-  + 02 Aug 19 ***(Some parts not working)*** 
+### βeta ***(Some parts not working)*** 
+  + 02 Aug 19 
    + Add B9 tank switch (with NearFutureConstruction Support) to: 
       + tinyGirderMediumTank 
       + tinyGirderSmallTank 
