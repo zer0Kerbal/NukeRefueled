@@ -1,12 +1,10 @@
-# SGEx  
-StarGuise Experimental  
+![Nuke Refueled](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
+![Nuke Refueled](https://img.shields.io/badge/MOD%20version-1.7.3.1-orange.svg?style=flat-square) 
+![Nuke Refueled](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 
-Proudly Updates(HOPEFULLY)  
+# SGEx  
 
 ## Nuke TinyParts 
-![zer0Kerbal](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
-![zer0Kerbal](https://img.shields.io/badge/MOD%20version-1.7.3.1-orange.svg?style=flat-square) 
-![Nuke Refueled](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
 ### ***Nuke TinyParts (NTP)***  
 Tiny Parts and Other Useless Junk
 'A pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts of my design. Most of the parts feature normal maps, and engines have overheat effects. 
