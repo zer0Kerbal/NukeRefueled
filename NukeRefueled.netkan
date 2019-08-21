@@ -1,0 +1,28 @@
+{
+    "spec_version"    : 1,
+    "name"            : "Nuke Refuled",
+    "identifier"      : "Nuke Refueled",
+    "abstract"        : "Tiny Parts and Other Useless Junk - A KSP parts pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts designed by Nuke. Most of the parts feature normal maps, and engines have overheat effects. ",
+    "resources": {
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/21466-161-tiny-parts-and-other-useless-junk/",
+        "repository": "https://github.com/zer0Kerbal/NukeRefueled",
+        "bugtracker": "https://github.com/zer0Kerbal/NukeRefueled/issues",
+        "manual": "https://github.com/zer0Kerbal/NukeRefueled/wiki"
+    },
+    "recommends"      : [
+        { "name": "ModuleManager" }
+        { "name": "B9PartSwitch" }
+    ],
+    "suggests": [
+        { "name": "KAS" },
+        { "name": "TweakScale" },
+        { "name": "SmokeScreen" },
+        { "name": "CommunityCategoryKit" },
+        { "name": "CommunityResourceKit" },
+    ],
+    "license"         : "CC-BY-NC-SA-4.0 ",
+    "author"          : [ "Nuke", "zer0Kerbal"],
+    "$vref"           : "#/ckan/ksp-avc",
+    "$kref"           : "",
+    "x_netkan_version_edit" : "^v(?<version>.+)$"
+}
