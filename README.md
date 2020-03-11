@@ -47,7 +47,7 @@ Licensed under CC BY-NC-SA-4.0
 
 
 ![Jeb's Rule #1"](https://ic.pics.livejournal.com/asaratov/25113347/1448500/1448500_original.jpg   "Jeb's Rule #1") 
-
+![Validate AVC .version files](https://github.com/zer0Kerbal/NukeRefueled/workflows/Validate%20AVC%20.version%20files/badge.svg)
 
 License  
 ![[CC 4.0 BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png "CC 4.0 BY-NC-SA")
