@@ -1,36 +1,33 @@
-![Nuke Refueled](https://img.shields.io/badge/KSP%20version-1.7.x-66ccff.svg?style=flat-square) 
-![Nuke Refueled](https://img.shields.io/badge/MOD%20version-1.7.3.1-orange.svg?style=flat-square) 
-![Nuke Refueled](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg)
-
-# SGEx  
-
-## Nuke TinyParts 
-### ***Nuke TinyParts (NTP)***  
+# Nuke's tinyParts (NTP)
+## Tiny Parts and Other Useless Junk
+![Mod Version](https://img.shields.io/github/v/release/zer0Kerbal/NukeRefueled?include_prereleases?style=plastic)
+![KSP version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/NukeRefueled/master/json/ksp.json?style=plastic) ![KSP-AVC](https://img.shields.io/badge/KSP-AVC--supported-brightgreen.svg?style=plastic) ![License CC BY-NC-SA 4.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey?style=plastic)
+![Spacedock](https://img.shields.io/badge/SpaceDock-listed-blue.svg?style=plastic) ![CKAN](https://img.shields.io/badge/CKAN-Indexed-blue.svg?style=plastic) ![Github](https://img.shields.io/badge/Github-Indexed-blue.svg?style=plastic) ![Curseforge](https://img.shields.io/badge/CurseForge-listed-blue.svg?style=plastic)
+ 
 Tiny Parts and Other Useless Junk
 'A pack containing half meter, tanks, engines, rcs, various adapters and decouplers as well as other miscellaneous parts of my design. Most of the parts feature normal maps, and engines have overheat effects. 
 
 * v.1.7.3.0.1
-   + Add B9 tank switch (with NearFutureConstruction Support) to : 
-      + tinyGirderMediumTank 
-      + tinyGirderSmallTank 
-      + tinyGirderLargeHubTank 
-      + smallDeltaWing 
-      + halfMeterFuelTankLong 
-      + halfMeterFuelTankShort 
-      + halfMeterXenonTank 
-      + oneMeterXenonTank 
-      + halfMeterRcsTank 
-   + BUG: TweakScale doesn't like halfmeterductedfan 
-   + Updated TweakScale patch to be more specific 
+- Add B9 tank switch (with NearFutureConstruction Support) to : 
+ - tinyGirderMediumTank 
+ - tinyGirderSmallTank 
+ - tinyGirderLargeHubTank 
+ - smallDeltaWing 
+ - halfMeterFuelTankLong 
+ - halfMeterFuelTankShort 
+ - halfMeterXenonTank 
+ - oneMeterXenonTank 
+ - halfMeterRcsTank 
+- BUG: TweakScale doesn't like halfmeterductedfan 
+- Updated TweakScale patch to be more specific 
 * v.1.7.2.0.1 
-   + released:  
-   + updated .version to 1.7.x  
-   + no recompile needed
-   + TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
-   + originally licenced under Public Domain, updated to CC BY-NC-SA-4.0 to protect Nuke
-   + ~80 parts
-   + *Some parts not working*
-
+- released:  
+- updated .version to 1.7.x  
+- no recompile needed
+- TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
+- originally licenced under Public Domain, updated to CC BY-NC-SA-4.0 to protect Nuke
+- ~80 parts
+- *Some parts not working*
 
 *a part of the **TWYLLTR** (Take What You Like, Leave the Rest) collection.*  
  
