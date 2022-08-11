@@ -1,6 +1,8 @@
 {
-  "schemaVersion": 1,
-  "label": "Nuke's tinyParts",
-  "message": "1.8.0.0",
-  "color": "orange"
+ "schemaVersion": 1,
+ "label": "NukeRefueled",
+ "labelColor": "BADA55",
+ "message": "...",
+ "color": "darkgreen",
+ "style": "plastic"
 }
