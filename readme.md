@@ -42,7 +42,8 @@ Nuke-TinyParts by `Nuke
 Original license: public-domain.
 
 Licensed under CC BY-NC-SA-4.0
-[KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/21466-161-tiny-parts-and-other-useless-junk/)
+[KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/209312-*/)
+[Original KSP Forums](https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*/)
 [Spacedock](https://spacedock.info/mod/2175)
 [Dropbox](https://drive.google.com/drive/folders/1WPu-nxiyoI-xSWWkb_FJ5wDdqelR4jVk)
 [CKAN Github](https://github.com/KSP-CKAN/CKAN-meta/commit/6b00321e9a4ad5f8ccc5bebb9e57ca02cbde61d3)
